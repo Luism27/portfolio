@@ -5,7 +5,7 @@
 // License text available at https://opensource.org/licenses/MIT
 
 export const METADATA = {
-  title: "Portfolio | Ayush Singh",
+  title: "Portfolio | Luis Marquez",
   description:
     "I bridge the gap between design and development. I take responsibility to craft an aesthetic user experience using modern frontend architecture.",
   siteUrl: "https://ayushsingh.net/",
@@ -35,24 +35,21 @@ export const MENULINKS = [
 ];
 
 export const TYPED_STRINGS = [
-  "I design and develop things",
-  "I develop modern frontend apps",
-  "I design dynamic user experience",
+  "I design and develop interesting things",
+  "I develop modern apps",
+  "I design dynamic databases",
   "I design and develop motion",
 ];
 
 export const EMAIL = "ayush.singh.xda@gmail.com";
 
 export const SOCIAL_LINKS = {
-  linkedin: "https://www.linkedin.com/in/alphaayush/",
-  github: "https://github.com/ayush013",
-  medium: "https://alphaayush.medium.com/",
-  instagram: "https://www.instagram.com/alphaayush/",
-  facebook: "https://www.facebook.com/ayush013",
-  dribbble: "https://dribbble.com/alphaayush",
-  behance: "https://www.behance.net/alphaayush/",
-  twitter: "https://twitter.com/ayush013",
-  topmate: "https://www.topmate.io/alphaayush/",
+  linkedin: "https://www.linkedin.com/in/marquez-luis/",
+  github: "https://github.com/Luism27",
+  instagram: "https://www.instagram.com/marquezluis43/",
+  facebook: "https://www.facebook.com/lwlwllwlwlwllww",
+  twitter: "https://twitter.com/Luis_mrq27",
+  topmate: "https://topmate.io/luis_alfonso_marquez_pertuz",
 };
 
 export interface IProject {
