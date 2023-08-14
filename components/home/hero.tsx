@@ -81,6 +81,9 @@ const HeroSection = React.memo(() => {
 
   const renderHeroContent = (): React.ReactNode => (
     <div className={HERO_STYLES.CONTENT}>
+      <h1 className="text-8xl">
+        Building...
+      </h1>
       <div className="md:mb-4 mb-2">
         <h2 className="text-4xl seq">Hello 👋🏻</h2>
         <h1 className="text-3xl seq">{"I'm Luis Marquez"}</h1>
@@ -98,7 +101,7 @@ const HeroSection = React.memo(() => {
             target: "_blank",
             rel: "noreferrer",
           }}
-          href="/Ayush_Resume.pdf"
+          href="/Luis_Marquez.pdf"
         ></Button>
         <Button
           classes="ml-3"

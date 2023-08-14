@@ -38,7 +38,7 @@ const Footer = () => {
             target: "_blank",
             rel: "noreferrer",
           }}
-          href="/Ayush_Resume.pdf"
+          href="/Luis_Marquez.pdf"
         ></Button>
         <Button
           classes="ml-3"
