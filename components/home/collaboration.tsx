@@ -106,7 +106,7 @@ const CollaborationSection = () => {
   return (
     <section className={COLLABORATION_STYLE.SECTION} ref={targetSection}>
       {renderSlidingText(
-        " User Interface Design  User Experience Design ",
+        " React Nest Postgres Development Web Applications",
         "ui-left"
       )}
 
