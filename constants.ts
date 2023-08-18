@@ -67,7 +67,7 @@ export const PROJECTS: IProject[] = [
     name: "TopLive",
     image: "/projects/toplive.png",
     gradient: ["#1F6582", "#1ABCFE"],
-    blurImage: "/projects/blur/toplive-blur.png",
+    blurImage: "/projects/blur/toplive-blur.jpeg",
     description: "A platform that connect professional healths with patient",
     url: "https://toplive.live",
     tech: ['javascript', "node", "react", "postgresql"]
