@@ -4,7 +4,7 @@
   "private": true,
   "engines": {
     "node": "18.13.0",
-    "pnpm": "8.6.12"
+    "pnpm": "8.7.6"
   },
   "scripts": {
     "dev": "next dev",
