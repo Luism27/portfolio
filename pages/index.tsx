@@ -10,6 +10,7 @@ import React, { useEffect, useState } from "react";
 
 import { gsap } from "gsap";
 import { ScrollTrigger } from "gsap/dist/ScrollTrigger";
+import { Analytics } from "@vercel/analytics/react";
 
 import Layout from "@/components/common/layout";
 import Header from "@/components/common/header";
@@ -89,6 +90,7 @@ export default function Home() {
           <Footer />
         </main>
         <Scripts />
+        <Analytics />
       </Layout>
     </>
   );
